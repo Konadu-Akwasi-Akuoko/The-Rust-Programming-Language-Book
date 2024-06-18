@@ -1,8 +1,3 @@
-fn my_name(name: &str) {
-    println!("My name is: {}", name);
-}
-
-fn main() {
-    println!("Hello, world!");
-    my_name("Akwasi Konadu Akuoko")
+impl Solution {
+    pub fn maximum_subarray_sum(nums: Vec<i32>, k: i32) -> i64 {}
 }
